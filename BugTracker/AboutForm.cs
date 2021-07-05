@@ -31,7 +31,7 @@ namespace BugTracker
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("mailto:oriongonza@gmail.com");
+            Process.Start("mailto:oriongonza00@gmail.com");
 
         }
 
